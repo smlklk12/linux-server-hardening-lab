@@ -30,6 +30,6 @@ chmod +x health_check.sh
 
 ## Verification Output
 
-<img width="626" height="377" alt="imge_!" src="[https://github.com/user-attachments/assets/35b3ea3e-9dcb-4048-90d1-cb8ce570e62d](https://github.com/user-attachments/assets/35b3ea3e-9dcb-4048-90d1-cb8ce570e62d)" />
+<img width="626" height="377" alt="imge_!" src="https://github.com/user-attachments/assets/9665fdcf-3566-4f2b-b665-69c02a1a6414" />
+<img width="637" height="196" alt="imge_ 2" src="https://github.com/user-attachments/assets/e05ad28c-15f9-40c0-966e-36feddbda856" />
 
-<img width="637" height="196" alt="imge_ 2" src="[https://github.com/user-attachments/assets/eee489e2-3dab-4174-9822-0103ade45301](https://github.com/user-attachments/assets/eee489e2-3dab-4174-9822-0103ade45301)" />
